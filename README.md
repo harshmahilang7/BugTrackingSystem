@@ -59,13 +59,7 @@ The Bug Tracking System project accommodates multiple user roles, including test
 ##  Conclusion 🔚
 By combining these features and technologies, the Bug Tracking System project offers a robust, user-friendly, and efficient solution for bug tracking and management. It enhances software quality, productivity, and communication among stakeholders, making it an ideal choice for an object-oriented programming course project.
 
-You can try the application now from [here](https://bit.ly/BugTrackingSystemApplication) after downloading [Java](https://www.oracle.com/eg/java/technologies/downloads/#jdk20-windows)!!
 
----
-### Collaborators 🤝
 
-- [Ismail Fakhr](https://github.com/Ismailfakhr)
-- [Alaa Imam](https://github.com/AlaaImam)
-- [Ahmed Kamal](https://github.com/AhmadKamal0)
-- [Mahmoud Hany](https://github.com/MahmoudHanyFathalla)
+
 - [Anton Ashraf](https://github.com/AntonAshraf)
